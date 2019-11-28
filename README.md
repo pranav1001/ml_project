@@ -1,5 +1,5 @@
-# ml_project
-Ml algorithms
+# ml algorithms test
+Tested various ml algorithms on UCI dataset
  The dataset contains 10 different
 classes, each depicting one alphabet. The goal was to recognize the best machine learning algorithm in
 terms of speed and accuracy.
